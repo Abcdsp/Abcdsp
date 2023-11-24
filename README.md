@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abcdsp
-- 👀 I’m interested in security traffic management and devops
-- 🌱 I’m currently learning HPCSA course at CDAC ACTS PUNE
+- 👀 I’m interested in (linux, networking ,security traffic management,cloud,DEVOPS and HPC) ADMINSTRATION 
+- 🌱 I’m currently learning PG-DHPCSA course at CDAC ACTS PUNE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anuradha04chavan@gmail.com
 - 
